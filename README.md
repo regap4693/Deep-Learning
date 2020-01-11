@@ -1,7 +1,4 @@
-# TEXT To SQL
+# Deep Learning
 
-We aim to make information easily available to non technical users. One of the major sources
-of information is Databases. Users of any background can analyze large amounts of data
-if they are able to use natural language processing to query databases.Hence we need a
-system that is able to yield SQL queries automatically by simply interpreting the user questions
-given to it. We use various end to end deep learning models and probability model to achieve this.
+TextToSQL: Encoder Decoder model, attention model to construct an nlidb system i.e. convert natural language to sql statements.
+Clothing Recommendations: Siamese network to recommend the best matching clothing to the cloth worn by a person in an image.
